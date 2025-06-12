@@ -24,7 +24,7 @@ This chatbot can:
 | scikit-learn     | TF-IDF Vectorizer and cosine similarity      |
 | PyPDF2           | PDF text extraction                          |
 | python-dotenv    | Environment variable management (local dev)  |
-| Gemini API (optional) | Can be used for LLM integration in future |
+| Gemini API  | Can be used for LLM integration in future |
 
 ---
 
